@@ -1,0 +1,8 @@
+{
+  "name": "HyperOS 3 Simulator",
+  "description": "A high-fidelity web-based smartphone OS simulation inspired by HyperOS 3, featuring glassmorphism, fluid animations, and a Gemini-powered AI assistant within a premium iPhone-style frame.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
